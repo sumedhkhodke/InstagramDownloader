@@ -13,4 +13,4 @@ requests==2.20.1
 3) Run this file using : python instadownload.py
 4) You will be prompted at each step for downloading photo/video
 
-# Leave a star if you like this repo
+# Leave a star if you like this repo :)
